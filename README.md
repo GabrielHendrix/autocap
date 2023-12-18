@@ -178,7 +178,7 @@ Esta parte é a mais complexa. Queremos ao mesmo tempo
     sem vazamento com o AudioCaps
 
 Isso é difícil e não tem solução ótima. Especialmente balancear um conjunto de dados é complicado quando cada exemplo tem múltiplos rótulos.
-Neste repositório, existem algumas utilidades que ajudam a selecioná-lo. Se você quiser selecionar seu próprio subconjunto, pode olhar em notebooks/select_audioset_subset.ipynb
+Neste repositório, existem algumas utilidades que ajudam a selecioná-lo.
 
 No entanto, o subconjunto que selecionamos também está disponível neste repositório em data/audioset_small.
 </details>
