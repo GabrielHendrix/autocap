@@ -1,5 +1,7 @@
 # SoundScribe
 
+[SoundScribe: Aplicação de GPTs na Legendagem Inteligente para Surdos - Um Passo Adiante na Acessibilidade Auditiva](https://drive.google.com/drive/folders/195_PA2OtTEy9ox1Z5ZE_DB7OWG0nC2my?usp=drive_link) (Clique para baixar o relatório)
+
 ## Sobre o Projeto
 
 Este repositório contém os recursos do "SoundScribe: Aplicação de GPTs na Legendagem Inteligente para Surdos - Um Passo Adiante na Acessibilidade Auditiva", um projeto desenvolvido para auxiliar pessoas com deficiência auditiva. O sistema utiliza tecnologia de modelo Transformer Encoder-Decoder para transcrever fala e identificar sons ambientais de forma precisa e em tempo real.
